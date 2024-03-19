@@ -1,5 +1,6 @@
 import { Button, StyleSheet, TextInput, View } from "react-native";
 
+
 export default function Cadastro() {
   return (
     <View style={estilos.container}>
